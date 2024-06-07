@@ -1,0 +1,13 @@
+npm init -y
+
+npm i express
+
+npm i --save-dev nodemon
+
+remove test out of "package.json", replace with "devStart": ""nodemon server.js""
+
+Create server.js
+
+npm run devStart *****
+
+npm i ejs
